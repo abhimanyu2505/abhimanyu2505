@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Rugwed Ushir
 
-<!--
-**abhimanyu2505/abhimanyu2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mechanical Engineering Student at VIT Pune
 
-Here are some ideas to get you started:
+⚙️ Passionate about Mechanical Design, CAD Automation, CFD, Artificial Intelligence and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Overall Winner – IoT Genesis Ideathon 2026
+
+🏆 Problem Statement Winner – Techathon 3.0
+
+---
+
+## Current Focus
+
+- Agentic CAD
+- AI-Assisted CAM Automation
+- CFD and Thermal Analysis
+- Mechanical Engineering Intelligence Systems
+- Full Stack Development
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- Email
+- GitHub
