@@ -4,24 +4,13 @@
 
 # Hi 👋 I'm Rugwed Ushir
 
-🚀 Mechanical Engineering Student at VIT Pune
+🚀 Mechanical Engineering Student @ VIT Pune
 
-⚙️ Passionate about Mechanical Design, CAD Automation, CFD, Artificial Intelligence and Software Development.
+⚙️ Building AI-Powered Engineering Systems
 
-🏆 Overall Winner – IoT Genesis Ideathon 2026
+🏆 IoT Genesis Ideathon 2026 Winner
 
-🏆 Problem Statement Winner – Techathon 3.0
-
----
-
-## Current Focus
-
-- Agentic CAD
-- AI-Assisted CAM Automation
-- CFD and Thermal Analysis
-- Mechanical Engineering Intelligence Systems
-- Full Stack Development
-
+🏆 Techathon 3.0 Winner
 ---
 
 ## Connect With Me
@@ -30,49 +19,56 @@
 - Email
 - GitHub
 
-## 🛠️ Tech Stack
+## ⚒️ Technologies & Tools
 
-### Programming
-Python • C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-### Engineering
-ANSYS • MATLAB • CAD • CFD
+## Featured Projects
 
-### Development
-React • Node.js • Flutter
+🤖 Agentic CAD
+AI-powered conversational mechanical CAD platform
 
-### Data Science
-NumPy • Pandas • Matplotlib • Scikit-Learn
+⚙️ CAM Automation
+NX Open API based manufacturing automation
 
-### Tools
-Git • GitHub • VS Code • Google Colab • Arduino IDE
+🔋 BTMS
+CFD-based thermal management of Li-ion batteries
 
-## 🚀 Featured Projects
+🌊 Kaplan Turbine
+Python-generated airfoils and CFD validation
 
-### 🤖 Agentic CAD
-AI-powered conversational CAD platform for generating and validating mechanical assemblies.
+📡 Smart Cow Collar
+IoT-based livestock health monitoring
 
-### ⚙️ AI-Assisted CAM Automation
-Automated CAM workflow generation using Siemens NX Open API.
+## 📫 Connect With Me
 
-### 🔋 Battery Thermal Management System
-CFD analysis and thermal optimization of a 5S4P Li-ion battery module.
+[LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/rugwed-ushir-779449372/))
 
-### 🌊 Kaplan Turbine Blade Design & CFD Analysis
-Python-generated NACA airfoils, CAD modelling, and ANSYS Fluent validation.
+[Email](rugwedushir25@gmail.com)
 
-### 📡 Smart Cow Health Monitoring Collar
-IoT-based disease detection and livestock health monitoring system.
+## Achievements
 
-## 🏆 Achievements
+🏆 IoT Genesis Ideathon 2026 – Overall Winner
 
-- Overall Winner – IoT Genesis Ideathon 2026
-- Problem Statement Winner – Techathon 3.0
-- 1st Place – CodeNova Innovation Challenge
-- 2nd Place – AI Cloudverse Innovation Challenge
+🏆 Techathon 3.0 – Problem Statement Winner
+
+🥇 CodeNova Innovation Challenge
+
+🥈 AI Cloudverse Innovation Challenge
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimanyu2505&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Rugwed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimanyu2505&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu2505&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhimanyu2505&theme=tokyonight)
