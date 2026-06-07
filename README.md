@@ -43,25 +43,13 @@ I'm a Mechanical Engineering student at VIT Pune passionate about integrating Ar
 
 ## 🚀 Featured Projects
 
-[![Agentic CAD](https://img.shields.io/badge/Agentic_CAD-Open_Project-blue?style=for-the-badge)](YOUR_REPO_LINK)
+[![Agentic CAD](https://img.shields.io/badge/Agentic_CAD-Open_Project-blue?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/Agentic-Cad-Starter))
 
 [![CAM Automation](https://img.shields.io/badge/CAM_Automation-Open_Project-green?style=for-the-badge)](YOUR_REPO_LINK)
 
-[![BTMS CFD](https://img.shields.io/badge/BTMS_CFD-Open_Project-orange?style=for-the-badge)](YOUR_REPO_LINK)
+[![BTMS CFD](https://img.shields.io/badge/BTMS_CFD-Open_Project-orange?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/BTMS-5S4P-LiIon-Battery-Thermal-Management-System))
 
-[![Kaplan Turbine](https://img.shields.io/badge/Kaplan_Turbine-Open_Project-red?style=for-the-badge)](YOUR_REPO_LINK)
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhimanyu2505&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu2505&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhimanyu2505&theme=tokyonight"/>
-</p>
+[![Kaplan Turbine](https://img.shields.io/badge/Kaplan_Turbine-Open_Project-red?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/Python-Based-Kaplan-Turbine-Blade-Design-and-CFD-Analysis))
 
 ## Achievements
 🏆 IoT Genesis Ideathon 2026 – Overall Winner.
