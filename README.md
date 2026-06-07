@@ -2,16 +2,20 @@
   <img src="banner.png" alt="Banner">
 </p>
 
-# Hi 👋 I'm Rugwed Ushir
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Mechanical+Engineer;AI+Developer;CAD+Automation+Engineer;CFD+and+Thermal+Analysis;Building+Engineering+Intelligence+Systems" />
+</p>
 
-🚀 Mechanical Engineering Student @ VIT Pune
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhimanyu2505&color=blue&style=for-the-badge">
+</p>
 
-⚙️ Building AI-Powered Engineering Systems
+## 👋 Hi, I'm Rugwed Ushir
 
-🏆 IoT Genesis Ideathon 2026 Winner
+I'm a Mechanical Engineering student at VIT Pune passionate about integrating Artificial Intelligence with Mechanical Engineering. My projects span CAD/CAM automation, CFD and thermal analysis, IoT systems, and AI-powered engineering tools, with a focus on developing intelligent solutions that bridge design, simulation, and automation.
 
-🏆 Techathon 3.0 Winner
----
+🏆 Overall Winner – IoT Genesis Ideathon 2026  
+🏆 Problem Statement Winner – Techathon 3.0
 
 ## Connect With Me
 
@@ -30,45 +34,30 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## Featured Projects
+## 🚀 Featured Projects
 
-🤖 Agentic CAD
-AI-powered conversational mechanical CAD platform
+[![Agentic CAD](https://img.shields.io/badge/Agentic_CAD-Open_Project-blue?style=for-the-badge)](YOUR_REPO_LINK)
 
-⚙️ CAM Automation
-NX Open API based manufacturing automation
+[![CAM Automation](https://img.shields.io/badge/CAM_Automation-Open_Project-green?style=for-the-badge)](YOUR_REPO_LINK)
 
-🔋 BTMS
-CFD-based thermal management of Li-ion batteries
+[![BTMS CFD](https://img.shields.io/badge/BTMS_CFD-Open_Project-orange?style=for-the-badge)](YOUR_REPO_LINK)
 
-🌊 Kaplan Turbine
-Python-generated airfoils and CFD validation
+[![Kaplan Turbine](https://img.shields.io/badge/Kaplan_Turbine-Open_Project-red?style=for-the-badge)](YOUR_REPO_LINK)
 
-📡 Smart Cow Collar
-IoT-based livestock health monitoring
+## 📊 GitHub Analytics
 
-## 📫 Connect With Me
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhimanyu2505&show_icons=true&theme=tokyonight"/>
 
-[LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/rugwed-ushir-779449372/))
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu2505&layout=compact&theme=tokyonight"/>
+</p>
 
-[Email](rugwedushir25@gmail.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhimanyu2505&theme=tokyonight"/>
+</p>
 
 ## Achievements
-
-🏆 IoT Genesis Ideathon 2026 – Overall Winner
-
-🏆 Techathon 3.0 – Problem Statement Winner
-
-🥇 CodeNova Innovation Challenge
-
-🥈 AI Cloudverse Innovation Challenge
-
-## 📊 GitHub Statistics
-
-## 📊 GitHub Stats
-
-![Rugwed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimanyu2505&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu2505&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhimanyu2505&theme=tokyonight)
+🏆 IoT Genesis Ideathon 2026 – Overall Winner.
+🏆 Techathon 3.0 – Problem Statement Winner.
+🥇 CodeNova Innovation Challenge.
+🥈 AI Cloudverse Innovation Challenge.
