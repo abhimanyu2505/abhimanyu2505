@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhimanyu2505&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Mechanical+Engineer;AI+Developer;CAD+Automation+Engineer;CFD+and+Thermal+Analysis;Building+Engineering+Intelligence+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhimanyu2505&color=blue&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=abhimanyu2505&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## 👋 Hi, I'm Rugwed Ushir
