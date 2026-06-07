@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
+
 # Hi 👋 I'm Rugwed Ushir
 
 🚀 Mechanical Engineering Student at VIT Pune
