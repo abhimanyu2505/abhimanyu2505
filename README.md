@@ -43,14 +43,25 @@ I'm a Mechanical Engineering student at VIT Pune passionate about integrating Ar
 
 ## 🚀 Featured Projects
 
-[![Agentic CAD](https://img.shields.io/badge/Agentic_CAD-Open_Project-blue?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/Agentic-Cad-Starter))
+<p align="center">
 
-[![CAM Automation](https://img.shields.io/badge/CAM_Automation-Open_Project-green?style=for-the-badge)](YOUR_REPO_LINK)
+<a href="https://github.com/abhimanyu2505/Agentic-Cad-Starter">
+<img src="https://img.shields.io/badge/AGENTIC_CAD-OPEN_PROJECT-2196F3?style=for-the-badge">
+</a>
 
-[![BTMS CFD](https://img.shields.io/badge/BTMS_CFD-Open_Project-orange?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/BTMS-5S4P-LiIon-Battery-Thermal-Management-System))
+<a href="https://github.com/abhimanyu2505/Python-Based-Kaplan-Turbine-Blade-Design-and-CFD-Analysis">
+<img src="https://img.shields.io/badge/KAPLAN_TURBINE-OPEN_PROJECT-E53935?style=for-the-badge">
+</a>
 
-[![Kaplan Turbine](https://img.shields.io/badge/Kaplan_Turbine-Open_Project-red?style=for-the-badge)]([YOUR_REPO_LINK](https://github.com/abhimanyu2505/Python-Based-Kaplan-Turbine-Blade-Design-and-CFD-Analysis))
+<a href="https://github.com/abhimanyu2505/BTMS-5S4P-LiIon-Battery-Thermal-Management-System">
+<img src="https://img.shields.io/badge/BTMS_CFD-OPEN_PROJECT-FF9800?style=for-the-badge">
+</a>
 
+<a href="https://github.com/abhimanyu2505/MetaQuery">
+<img src="https://img.shields.io/badge/METAQUERY-OPEN_PROJECT-4CAF50?style=for-the-badge">
+</a>
+
+</p>
 ## Achievements
 🏆 IoT Genesis Ideathon 2026 – Overall Winner.
 🏆 Techathon 3.0 – Problem Statement Winner.
