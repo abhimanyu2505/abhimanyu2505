@@ -23,16 +23,23 @@ I'm a Mechanical Engineering student at VIT Pune passionate about integrating Ar
 - Email
 - GitHub
 
-## ⚒️ Technologies & Tools
+## 🛠 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
+### Mechanical Engineering
+![ANSYS](https://img.shields.io/badge/ANSYS-Simulation-yellow?style=for-the-badge)
+![Siemens NX](https://img.shields.io/badge/Siemens_NX-CAD-blue?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-Autodesk-orange?style=for-the-badge)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Development
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ## 🚀 Featured Projects
 
