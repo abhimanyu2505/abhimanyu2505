@@ -7,13 +7,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ANSYS-Fluent-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Siemens-NX-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SolidWorks-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Automation-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=abhimanyu2505&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
